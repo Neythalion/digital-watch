@@ -1,0 +1,16 @@
+{
+  "name": "crazy-beggar-applaud-gtn5m",
+  "productName": "crazy-beggar-applaud-gtn5m",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Max",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "19.0.6"
+  }
+}
